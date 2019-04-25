@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import BobCard from "./components/BobCard";
-import bob from "./bob.json";
+import bob from "./bob.json.js";
 import "./App.css";
 
 //sets state to 0 or empty
